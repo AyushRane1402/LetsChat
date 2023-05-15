@@ -1,0 +1,31 @@
+body
+{
+background-image: linear-gradient(to right top, lightgreen, lightgreen, lightgreen, lightgreen, lightgreen);
+}
+
+.header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: red;float: none;border-radius: 15px;
+}
+
+h3
+{
+    font-style: italic;
+	color: white;
+}
+
+h4
+{
+    font-style: italic;
+	color: white;
+}
